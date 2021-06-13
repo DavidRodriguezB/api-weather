@@ -1,0 +1,13 @@
+exampleUrl.txt
+
+/put/city/new?name=London&longitude=-0.1275&latitude=51.5072
+/put/city/new?name=Zaragoza&longitude=-0.887712&latitude=41.649693
+/put/city/new?name=Madrid&longitude=-3.703339&latitude=40.416729
+/put/city/new?name=Barcelona&longitude=2.154007&latitude=41.390205
+/put/city/new?name=Dublin&longitude=-6.266155&latitude=53.350140
+
+/delete/city/byname?name=London
+/delete/city/all
+
+/get/city/byname?name=London
+/get/city/all
